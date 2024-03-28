@@ -1,0 +1,7 @@
+{
+  "name": "avaf-arthur",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
